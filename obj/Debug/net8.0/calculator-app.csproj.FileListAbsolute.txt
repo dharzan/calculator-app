@@ -1,0 +1,14 @@
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\bin\Debug\net8.0\calculator-app.exe
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\bin\Debug\net8.0\calculator-app.deps.json
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\bin\Debug\net8.0\calculator-app.runtimeconfig.json
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\bin\Debug\net8.0\calculator-app.dll
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\bin\Debug\net8.0\calculator-app.pdb
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.AssemblyInfoInputs.cache
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.AssemblyInfo.cs
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.csproj.CoreCompileInputs.cache
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.dll
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\refint\calculator-app.dll
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.pdb
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.genruntimeconfig.cache
+C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\ref\calculator-app.dll
