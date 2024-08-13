@@ -12,3 +12,4 @@ C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\refint\cal
 C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.pdb
 C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.genruntimeconfig.cache
 C:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\ref\calculator-app.dll
+c:\Users\dguruparan\react-dev\c#-proj\calculator-app\obj\Debug\net8.0\calculator-app.sourcelink.json
