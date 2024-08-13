@@ -17,7 +17,6 @@ namespace SimpleCalculator
 
             double num2 = Convert.ToDouble(Console.ReadLine());
 
-
             Console.Write("Enter the operation (+,-,*,/): ");
 
             char operation = Convert.ToChar(Console.ReadLine());
